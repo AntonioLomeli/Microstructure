@@ -31,3 +31,4 @@ if __name__ == "__main__":
     calculator.calculate_returns()
     print(df)
     print(calculator.returns)
+    print("Hola")
